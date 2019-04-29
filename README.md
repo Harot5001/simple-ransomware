@@ -1,4 +1,4 @@
-## Simple Ransomware build in C#
+## Simple Ransomware
 
 
 ### Description
